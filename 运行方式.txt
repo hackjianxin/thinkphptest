@@ -1,0 +1,5 @@
+下载文件，dos命令进到文件所在目录
+执行命令：python tptests.py http://xxx.com/
+一定要加最后的/
+程序依赖requests包，python安装requests即可使用。
+程序只可用来安全检测，使用本工具间接造成的一系列责任自负。
